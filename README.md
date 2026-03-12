@@ -1,6 +1,6 @@
 # 渝伴的个人网站合集
 
-欢迎来到 **渝伴** 的个人网站合集，这里展示了我运营的多个网站，覆盖 **个人博客、CDN 服务、通信套餐信息，以及反代谷歌字体服务**。  
+欢迎来到 **渝伴** 的个人网站合集，这里展示了我运营的多个网站，覆盖 **个人博客、CDN 服务、通信套餐信息，以及谷歌字体加速服务**。  
 本 README 专注于提供清晰的访问入口和网站特色，同时优化搜索引擎收录效果（SEO）。
 
 ---
@@ -12,7 +12,7 @@
 | **渝伴的小窝** | 个人博客 / 技术笔记 | [blog.osyb.cn](https://blog.osyb.cn) | 前端教程、后端开发、生活随笔、技术分享 |
 | **渝伴 CDN** | 静态资源加速 / CDN | [cdn.osyb.cn](https://cdn.osyb.cn) | 静态资源托管、网站加速、跨站点访问 |
 | **渝伴优卡** | 手机流量卡 / 通信套餐 | [youka.osyb.cn](https://youka.osyb.cn) | 流量卡推荐、通信套餐信息、全国宽带套餐、长期优惠 |
-| **渝伴 Fonts** | 反代谷歌字体 / 字体资源 | [fonts.osyb.cn](https://fonts.osyb.cn) | 谷歌字体加速、网页字体反代、开源字体、设计资源 |
+| **渝伴 Fonts** | 谷歌字体 / 字体资源 | [fonts.osyb.cn](https://fonts.osyb.cn) | 谷歌字体加速、网页字体反代、开源字体、设计资源 |
 
 ---
 
@@ -58,7 +58,6 @@
 
 - 提供快速、稳定的谷歌字体访问  
 - 支持网页、设计项目的字体加载  
-- 开源字体整理与下载  
 - 解决访问谷歌字体慢或被墙的问题  
 
 访问网站：[https://fonts.osyb.cn](https://fonts.osyb.cn)
@@ -69,7 +68,7 @@
 
 - 昵称：**渝伴**  
 - 职业 / 兴趣：博客运营、通信套餐整理、前端开发  
-- GitHub：[https://github.com/yourusername](https://github.com/yourusername)  
+- GitHub：[https://github.com/yubanwo](https://github.com/yubanwo)  
 - 欢迎交流、合作或反馈意见  
 
 ---
