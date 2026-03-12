@@ -1,7 +1,7 @@
 # Yuban's Personal Website Collection
 
 Welcome to **Yuban**’s personal website collection! Here you can explore multiple sites I manage, covering **personal blogging, CDN services, mobile/data plans, and Google Fonts acceleration**.  
-This README provides clear access links, highlights each site’s features, and is optimized for search engines (SEO).
+This README focuses on providing clear access links, highlights each site’s features, and is optimized for search engines (SEO).
 
 ---
 
@@ -67,7 +67,7 @@ Visit: [https://fonts.osyb.cn](https://fonts.osyb.cn)
 ## 🔹 About Me
 
 - Nickname: **Yuban**  
-- Profession / Interests: Blog management, communication plan curation, frontend development  
+- Profession / Interests: Blog management, communication plan curation, frontend development, backend development  
 - GitHub: [https://github.com/yubanwo](https://github.com/yubanwo)  
 - Open for collaboration, feedback, and discussion  
 
